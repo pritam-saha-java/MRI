@@ -1,0 +1,4 @@
+[autorun]
+LABEL=DCMburner
+ICON=start.exe,0
+OPEN=start.exe
